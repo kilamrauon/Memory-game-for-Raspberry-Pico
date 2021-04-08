@@ -15,7 +15,9 @@ ADKeyboard :  I connected the out to the pin 28 and VCC and out to the correspon
 the game is in Pyhton, not a very optimized code but works for now
 
 To do :
+
 optimize code
+
 comment code
 
 

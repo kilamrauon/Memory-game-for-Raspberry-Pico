@@ -1,4 +1,4 @@
-# Memory-game-for-Rapsberry-Pico
+# Memory-game-for-Raspberry-Pico
 Memory game for Raspberry Pico with ADKeyboard and led RGB V2
 
 Memory Game : push corresponding switch (1,4 and 5) to reproduce the sequence shown by the leds.

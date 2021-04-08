@@ -54,14 +54,14 @@ def touches():
     reading = analog_value.read_u16()     
     print("ADC: ",reading)
     
-    utime.sleep(0.2)
+    utime.sleep(0.3)
    # j = 0
    # j = int(reading/1000)
     
     while (touche == 0 ):
         
         reading = analog_value.read_u16()
-        j = 0
+        #j = 65
         j = int(reading/1000)
         
         if  j == 65:
@@ -88,6 +88,7 @@ def touches():
             print ("bouton 5")
             touche = 3
             affichage(3)
+        utime.sleep(0.01)
             
    
    

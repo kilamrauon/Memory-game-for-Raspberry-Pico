@@ -3,6 +3,9 @@ Memory game for Raspberry Pico with ADKeyboard and led RGB V2
 
 Memory Game : push corresponding switch (1,4 and 5) to reproduce the sequence shown by the leds.
 switches 2 and 3 to reset the game.
+green flashing : show the code to reproduce
+blue flashing : reproduce code
+red flashing : wrong code - game restarts
 
 I have not found an easy way to make a nice picture (I have not found the ADkeyboard and the led component for fritzing)
 Connections:
@@ -13,6 +16,7 @@ the game is in Pyhton, not a very optimized code but works for now
 
 To do :
 optimize code
+comment code
 
 
 ![raw final](20210408_141254.jpg)

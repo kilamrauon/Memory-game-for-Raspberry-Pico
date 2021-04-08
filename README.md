@@ -3,6 +3,7 @@ Memory game for Raspberry Pico with ADKeyboard and led RGB V2
 
 Memory Game : push corresponding switch (1,4 and 5) to reproduce the sequence shown by the leds.
 switches 2 and 3 to reset the game.
+
 green flashing : show the sequence to reproduce
 
 blue flashing : the player reproduces the sequence

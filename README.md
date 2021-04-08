@@ -5,7 +5,7 @@ Memory Game : push corresponding switch (1,4 and 5) to reproduce the sequence sh
 switches 2 and 3 to reset the game.
 green flashing : show the sequence to reproduce
 
-blue flashing : the playe reproduces the sequence
+blue flashing : the player reproduces the sequence
 
 red flashing : wrong sequence - game restarts
 

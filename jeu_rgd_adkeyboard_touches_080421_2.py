@@ -59,8 +59,9 @@ def touches():
    # j = int(reading/1000)
     
     while (touche == 0 ):
-        j=0
+        
         reading = analog_value.read_u16()
+        j = 0
         j = int(reading/1000)
         
         if  j == 65:
